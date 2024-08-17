@@ -10,8 +10,7 @@
 
 //     for (int i=2; i<=n ; i++){
 //         nfact = nfact * i;int n,r;
-//     // int  r ;
-//     pint n,r;
+//     // int  r ; n,r;
 //     // int  r ;
 //     printf ("enter the value of n: ");
 //     scanf("%d", &n);
@@ -36,7 +35,7 @@
 
 // }
 
-// // by fuction
+// by fuction
 
 #include<stdio.h>
     int factorial(int n){
